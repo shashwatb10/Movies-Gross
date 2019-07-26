@@ -1,6 +1,6 @@
-**Movie Data Analysis**
+# Movie Data Analysis
 
-*Shashwat Bhattacharjee*
+*Authors* - *Shashwat Bhattacharjee*
 
 ```{r setup, echo=FALSE, message=FALSE}
 setwd("C:/Users/SHASHWAT/Documents/R tutorial 2")
@@ -55,7 +55,6 @@ q
 ```
 ![Plot](Rplot2.jpeg)
 > Observations:  
-
 * Action is the most popular genre in Hollywood with budgets mosty exceeding $200M.    
 * Comedy movies have relatively smaller budgets while have the highest overall gross %. This makes producing comedy movies the most profitale venture.  
 * Adventure movies have the least gross % making it risky for producers to invest in.  
